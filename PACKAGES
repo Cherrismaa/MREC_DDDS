@@ -1,1 +1,10 @@
-pip install 
+Open Your CMD and install pip and set into path
+and then install the packages
+
+pip install opencv-python
+
+[To install DLIB PACKAGE](https://www.geeksforgeeks.org/how-to-install-dlib-library-for-python-in-windows-10/)
+pip install scipy
+pip install numpy
+pip install pygame
+
