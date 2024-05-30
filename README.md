@@ -1,5 +1,5 @@
 # Driver Drowsiness Detection System
-MREC-DRIVER DROWSINESS DETECTION SYSTEM
+DRIVER DROWSINESS DETECTION SYSTEM- a project for College project expo
 
 For DAT File - Download the file using the below link
 
