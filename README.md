@@ -1,5 +1,5 @@
 # Driver Drowsiness Detection System
-DRIVER DROWSINESS DETECTION SYSTEM- a project for College project expo
+DRIVER DROWSINESS DETECTION SYSTEM - a project for College project expo
 
 For DAT File - Download the file using the below link
 
