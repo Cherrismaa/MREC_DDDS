@@ -1,4 +1,4 @@
-# MREC_DDDS
+# Driver Drowsiness Detection System
 MREC-DRIVER DROWSINESS DETECTION SYSTEM
 
 For DAT File - Download the file using the below link
@@ -7,5 +7,5 @@ For DAT File - Download the file using the below link
 
 To Download the packages : [check out this ](https://github.com/Techie03/MREC_DDDS/blob/main/DDDS%20PPT.pptx)
 
-**[SOURCE CODE](https://github.com/Techie03/MREC_DDDS/blob/main/driver.py)**
+**[Source Code](https://github.com/Techie03/MREC_DDDS/blob/main/driver.py)**
 
